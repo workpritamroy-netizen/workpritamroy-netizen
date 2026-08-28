@@ -59,7 +59,7 @@
 - 📊 **[Retail Sales Analysis](https://github.com/workpritamroy-netizen/sales-analysis)** — Python + pandas + matplotlib, analyzing revenue by product, region, and month
 - 🗄️ **[Library Database System](https://github.com/workpritamroy-netizen/library-db-project)** — SQL (SQLite) project covering joins, aggregates, and subqueries
 - 🤖 **[AI Study Assistant](https://github.com/workpritamroy-netizen/genai-study-assistant)** — Python CLI tool using Google's Gemini API for chat, summarization, and quiz generation
-
+- 📊 Business Intelligence Dashboard — Streamlit + Plotly dashboard for sales and profit tracking
 ---
 
 ### 🎓 Certifications
