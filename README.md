@@ -54,7 +54,7 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - 🎓 **[Student Result Analyzer](https://github.com/workpritamroy-netizen/Student-Result-Analyzer)** — Streamlit app for analyzing student performance and identifying top performers
 - 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
 
-  🏆 Certifications
+  ## 🏆 Certifications
 
 - Introduction to Generative AI
 - Introduction to Large Language Models
@@ -66,7 +66,7 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - Build a Data Warehouse with BigQuery
 - Model Armor: Securing AI Deployments
 
-  🎯 Career Interests
+  ## 🎯 Career Interests
 
 - Software Development
 - Frontend Development
