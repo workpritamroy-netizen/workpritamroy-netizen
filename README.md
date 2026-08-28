@@ -58,9 +58,6 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
  
  ## 🏆 Certifications & Training
 
-- Agent Fundamentals
-- Introduction to AI Agents
-- Introduction to Generative AI
 - Introduction to Large Language Models (LLMs)
 - Build Agents with Agent Development Kit (ADK)
 - Machine Learning Operations (MLOps) for Generative AI
@@ -70,23 +67,18 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - AI & Emerging Technologies — practical learning involving Google tools, cloud, data and AI 
   technologies
 
-
 ## 📚 Coursework
 
 - DBMS
-- Statistics
 - Linear Algebra
 - C++ Programming
 - Computer Networking
 - Operations Research
 - Supply Chain Management
 
-
 ## 🚀 Career Interests
 
-- AI Agents
 - Generative AI
-- Data Analytics
 - Cloud Computing
 - Machine Learning
 - Software Development
