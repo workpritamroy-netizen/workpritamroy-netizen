@@ -7,6 +7,7 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam-kumar-roy)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:work.pritamroy@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square)](https://workpritamroy-netizen.github.io/portfolio/)
+</div>
 
 ---
 
