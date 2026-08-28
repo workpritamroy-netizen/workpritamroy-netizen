@@ -44,6 +44,8 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 
 ## 📌 Projects
 
+- 🔧 **[MCP Tool Calling Agent](https://github.com/workpritamroy-netizen/MCP-Tool-Agent-)** built with Python and Streamlit.
+- 📚 **[RAG From Scratch](https://github.com/workpritamroy-netizen/RAG-From-Scratch)** application that retrieves information from a knowledge base and generates responses
 - 🌐 **[Personal Portfolio Site](https://workpritamroy-netizen.github.io/portfolio/)**— my live resume, built with HTML/CSS/JS
 - 📊 **[Retail Sales Analysis](https://github.com/workpritamroy-netizen/sales-analysis)**— Python + pandas + matplotlib, analyzing revenue by product, region, and month
 - 🗄️ **[Library Database System](https://github.com/workpritamroy-netizen/library-db-project)**— SQL (SQLite) project covering joins, aggregates, and subqueries
@@ -52,8 +54,7 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - 📄 **[AI Resume Screener](https://github.com/workpritamroy-netizen/AI-Resume-Screener)** — Streamlit app for resume analysis and ATS-style
 - 💰 **[Expense Tracker](https://github.com/workpritame-Tracker)** — Streamlit app for tracking daily expenses and categories
 - 🎓 **[Student Result Analyzer](https://github.com/workpritamroy-netizen/Student-Result-Analyzer)** — Streamlit app for analyzing student performance and identifying top performers
-- 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
-- 🔧 **[MCP Tool Calling Agent](https://github.com/workpritamroy-netizen/MCP-Tool-Agent-)** built with Python and Streamlit. 
+- 🎯 **[AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
 
  
  ## 🏆 Certifications & Training
