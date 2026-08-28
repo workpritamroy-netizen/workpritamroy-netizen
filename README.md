@@ -1,4 +1,4 @@
-![Banner](./Banner.png)
+<div align="center">
 
 # Hi, I'm Pritam Kumar Roy 👋
 
