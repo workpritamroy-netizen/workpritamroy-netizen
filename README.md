@@ -63,7 +63,7 @@
 - 📄 **[AI Resume Screener](https://github.com/workpritamroy-netizen/AI-Resume-Screener)** — Streamlit app for resume analysis and ATS-style
 - 💰 **[Expense Tracker](https://github.com/workpritame-Tracker)** — Streamlit app for tracking daily expenses and categories
 - 🎓 **[Student Result Analyzer](https://github.com/workpritamroy-netizen/Student-Result-Analyzer)** — Streamlit app for analyzing student performance and identifying top performers
-- 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
+- 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and                     performance scoring
 ---
 
 ### 🎓 Certifications
