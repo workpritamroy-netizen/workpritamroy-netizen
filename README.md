@@ -55,20 +55,35 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
 
 
-  ## 🏆 Certifications
+ ## 🏆 Certifications & Training
 
-- Introduction to Generative AI
-- Introduction to Large Language Models
-- Introduction to AI Agents
-- Agent Fundamentals
-- Build Agents with ADK
-- Deploy Your First Agent
-- MLOps for Generative AI
-- Build a Data Warehouse with BigQuery
-- Model Armor: Securing AI Deployments
+- Google Cloud – Introduction to Generative AI
+- Google Cloud – Introduction to Large Language Models (LLMs)
+- Google Cloud – Introduction to AI Agents
+- Google Cloud – Agent Fundamentals
+- Google Cloud – Build Agents with Agent Development Kit (ADK)
+- Google Cloud – Deploy Your First Agent
+- Google Cloud – Machine Learning Operations (MLOps) for Generative AI
 
+## 📚 Coursework
 
-  ## 🎯 Career Interests
+- Linear Algebra
+- C++ Programming
+- Computer Networking
+- DBMS
+- Statistics
+- Operations Research
+- Supply Chain Management
+
+## 🎯 Leadership & Activities
+
+- Team Leader, SOA Proxima
+- Led an 8-member student team
+- Coordinated college fests, seminars and management events
+- Managed sponsorships, registrations and event logistics
+- Represented college in badminton
+
+## 🚀 Career Interests
 
 - Software Development
 - Frontend Development
