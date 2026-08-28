@@ -48,8 +48,8 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - 📊 **[Retail Sales Analysis](https://github.com/workpritamroy-netizen/sales-analysis)**— Python + pandas + matplotlib, analyzing revenue by product, region, and month
 - 🗄️ **[Library Database System](https://github.com/workpritamroy-netizen/library-db-project)**— SQL (SQLite) project covering joins, aggregates, and subqueries
 - 🤖 **[AI Study Assistant](https://github.com/workpritamroy-netizen/genai-study-assistant)**— Python CLI tool using Google's Gemini API for chat, summarization, and quiz generation
-- 💼 *[Business Intelligence Dashboard](https://github.com/workpritamroy-netizen/Business-Intelligence-Dashboard)**— Streamlit + Plotly dashboard for sales and profit tracking
+- 💼 **[Business Intelligence Dashboard](https://github.com/workpritamroy-netizen/Business-Intelligence-Dashboard)**— Streamlit + Plotly dashboard for sales and profit tracking
 - 📄 **[AI Resume Screener](https://github.com/workpritamroy-netizen/AI-Resume-Screener)** — Streamlit app for resume analysis and ATS-style
-- 💰 **[Expense Tracker](https://gTracker](https://github.com/workpritame-Tracker)** — Streamlit app for tracking daily expenses and categories
+- 💰 **[Expense Tracker](https://github.com/workpritame-Tracker)** — Streamlit app for tracking daily expenses and categories
 - 🎓 **[Student Result Analyzer](https://github.com/workpritamroy-netizen/Student-Result-Analyzer)** — Streamlit app for analyzing student performance and identifying top performers
 - 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
