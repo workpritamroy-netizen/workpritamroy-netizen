@@ -81,11 +81,11 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 
 ## 🚀 Career Interests
 
+- AI Agents
+- Generative AI
+- Data Analytics
+- Cloud Computing
+- Machine Learning
 - Software Development
 - Frontend Development
 - Artificial Intelligence
-- Machine Learning
-- Generative AI
-- AI Agents
-- Cloud Computing
-- Data Analytics
