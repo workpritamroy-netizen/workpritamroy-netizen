@@ -53,3 +53,32 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - 💰 **[Expense Tracker](https://github.com/workpritame-Tracker)** — Streamlit app for tracking daily expenses and categories
 - 🎓 **[Student Result Analyzer](https://github.com/workpritamroy-netizen/Student-Result-Analyzer)** — Streamlit app for analyzing student performance and identifying top performers
 - 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
+
+## ## 🏆 Certifications
+
+- Introduction to Generative AI
+- Introduction to Large Language Models
+- Introduction to AI Agents
+- Agent Fundamentals
+- Build Agents with ADK
+- Deploy Your First Agent
+- MLOps for Generative AI
+- Build a Data Warehouse with BigQuery
+- Model Armor: Securing AI Deployments
+
+## 📈 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=workpritamroy-netizen&show_icons=true&theme=tokyonight
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=workpritamroy-netizen&layout=compact&theme=tokyonight
+
+## 🎯 Career Interests
+
+- Software Development
+- Frontend Development
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- AI Agents
+- Cloud Computing
+- Data Analytics
