@@ -57,31 +57,27 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 
  ## 🏆 Certifications & Training
 
-- Google Cloud – Introduction to Generative AI
-- Google Cloud – Introduction to Large Language Models (LLMs)
-- Google Cloud – Introduction to AI Agents
-- Google Cloud – Agent Fundamentals
-- Google Cloud – Build Agents with Agent Development Kit (ADK)
-- Google Cloud – Deploy Your First Agent
-- Google Cloud – Machine Learning Operations (MLOps) for Generative AI
+- Agent Fundamentals
+- Introduction to AI Agents
+- Introduction to Generative AI
+- Introduction to Large Language Models (LLMs)
+- Build Agents with Agent Development Kit (ADK)
+- Machine Learning Operations (MLOps) for Generative AI
+- Summer Elective — AI & Machine Learning for Business Science
+- Certificate of Participation — International conference on advancements in AI & Machine 
+  Learning for Security
+- AI & Emerging Technologies — practical learning involving Google tools, cloud, data and AI 
+  technologies
 
 ## 📚 Coursework
 
+- DBMS
+- Statistics
 - Linear Algebra
 - C++ Programming
 - Computer Networking
-- DBMS
-- Statistics
 - Operations Research
 - Supply Chain Management
-
-## 🎯 Leadership & Activities
-
-- Team Leader, SOA Proxima
-- Led an 8-member student team
-- Coordinated college fests, seminars and management events
-- Managed sponsorships, registrations and event logistics
-- Represented college in badminton
 
 ## 🚀 Career Interests
 
