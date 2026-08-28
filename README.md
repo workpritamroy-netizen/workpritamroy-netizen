@@ -60,6 +60,7 @@
 - 🗄️ **[Library Database System](https://github.com/workpritamroy-netizen/library-db-project)** — SQL (SQLite) project covering joins, aggregates, and subqueries
 - 🤖 **[AI Study Assistant](https://github.com/workpritamroy-netizen/genai-study-assistant)** — Python CLI tool using Google's Gemini API for chat, summarization, and quiz generation
 - 📊 **[Business Intelligence Dashboard](https://github.com/workpritamroy-netizen/Business-Intelligence-Dashboard)**- — Streamlit + Plotly dashboard for sales and profit tracking
+- 📄 **[AI Resume Screener](https://github.com/workpritamroy-netizen/AI-Resume-Screener)** — Streamlit app for resume analysis and ATS-style
 ---
 
 ### 🎓 Certifications
