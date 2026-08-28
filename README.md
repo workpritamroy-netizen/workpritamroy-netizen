@@ -55,6 +55,7 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - 🎯 **[ AI Interview Assistant](https://github.com/workpritamroy-netizen/AI-Interview-Assistant)** → Streamlit-based interview preparation tool with role-based questions, instant feedback, and performance scoring
 
 
+ 
  ## 🏆 Certifications & Training
 
 - Agent Fundamentals
@@ -69,6 +70,7 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - AI & Emerging Technologies — practical learning involving Google tools, cloud, data and AI 
   technologies
 
+
 ## 📚 Coursework
 
 - DBMS
@@ -78,6 +80,7 @@ BBA Graduate | Aspiring Software & AI Developer | Frontend + Generative AI Enthu
 - Computer Networking
 - Operations Research
 - Supply Chain Management
+
 
 ## 🚀 Career Interests
 
