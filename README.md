@@ -2,7 +2,7 @@
 
 # Hi, I'm Pritam Kumar Roy 👋
 
-MBA Student (Gen AI & Product Management) | Aspiring Software & AI Developer | Frontend + Generative AI Enthusiast
+MBA Student (Gen AI & PM) | Aspiring Software & AI Developer | Frontend + Generative AI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritam-kumar-roy)
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:work.pritamroy@gmail.com)
